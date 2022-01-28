@@ -22,6 +22,7 @@ Perform analysis on the provided data to determine the scope of market penetrati
 * The Content
 * Transactions
 * Location(Country)
+
 Perform associative analysis to segment customers according to their ages and gender thereby enabling us to create packages on content,  and market them according to the preferences of these clusters.
 
 Develop an automated prototype that can access data in realtime from MyMovies Africa database and give a weekly analysis on the site activity.
