@@ -17,8 +17,8 @@ with header:
     col1 = st.columns(1)
     # with col1:
     #     st.header("A cat")
-    #     st.image('MyMoviesAfrica_logo_Black_200920.png')
-    image = Image.open('MyMoviesAfrica_logo_Black_200920.png')
+    #     st.image('MyMoviesAfrica_logo_Black_2009201.png')
+    image = Image.open('MyMoviesAfrica_logo_Black_2009201.png')
     st.image(image, caption=' ')
     # link = '[TABLEAU](https://public.tableau.com/views/SmartMarketingAnalysisMyMoviesAfrica/Story1?:language=en-US' \
     #        '&publish=yes&:display_count=n&:origin=viz_share_link) '
