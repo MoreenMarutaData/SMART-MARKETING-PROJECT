@@ -53,10 +53,15 @@ Maintaining loyalty with the current audience.
 The project is to be downloaded with the datasets, for easier retrival of information. Use of an editer that supports Jupyter Notebook is required.
 
 # Contact Details
-Incase of any problems when accessing the project, or any questions, feel free to contact us via any of the emails : 
+Incase of any problems while accessing the project or any Questions, feel free to contact us via any of the emails : 
 
 - Alphonce Mwangi - alfonce.mwangi@student.moringaschool.com
 - Joyline Cheruiyot - joyline.cheruiyot@student.moringaschool.com
 - Jabin Oganga - jabin.oweggi@student.moringaschool.com
 - Natasha Gwena - natasha.gwena@student.moringaschool.com
 - Moreen Mugambi - moreenmarutamugambi@gmail.com
+
+# KNOWN BUGS 
+There are no known bugs in the project.
+
+Copyright (c) 2022.
