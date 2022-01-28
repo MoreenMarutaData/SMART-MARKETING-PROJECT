@@ -30,7 +30,9 @@ Develop an automated prototype that can access data in realtime from MyMovies Af
 The analysis based on the customer information collected will be used to develop insights on which social media platforms to be used to convey various information to the customers and what incentives to use on which target audience 
 
 ## Objectives
+
 The main goal for smart marketing is to gain more clients while spending less on advertising.
+
 Maintaining loyalty with the current audience.
 * Associative Analysis
 * Customer Data Analysis
