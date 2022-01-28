@@ -31,10 +31,32 @@ The analysis based on the customer information collected will be used to develop
 
 ## Objectives
 
-The main goal for smart marketing is to gain more clients while spending less on advertising.
+The main goal for smart marketing is to gain more clients while spending less on advertising and to determine how to target customers based on demographics or other factors.
 
 Maintaining loyalty with the current audience.
 * Associative Analysis
 * Customer Data Analysis
-* Creating a dashboard where weekly statistics will be recorded
+* Creating a Web App where yearly and weekly statistics will be recorded
 
+# Technologies used
+- Jupyter Notebook
+- VS Code
+- Git
+- Microsoft Excel
+- PyCharm
+- Streamlit
+
+# Languages used
+- Python
+
+# Setup
+The project is to be downloaded with the datasets, for easier retrival of information. Use of an editer that supports Jupyter Notebook is required.
+
+# Contact Details
+Incase of any problems when accessing the project, or any questions, feel free to contact us via any of the emails : 
+
+- Alphonce Mwangi - alfonce.mwangi@student.moringaschool.com
+- Joyline Cheruiyot - joyline.cheruiyot@student.moringaschool.com
+- Jabin Oganga - jabin.oweggi@student.moringaschool.com
+- Natasha Gwena - natasha.gwena@student.moringaschool.com
+- Moreen Mugambi - moreenmarutamugambi@gmail.com
