@@ -55,7 +55,7 @@ The project is to be downloaded with the datasets, for easier retrival of inform
 # Contact Details
 Incase of any problems while accessing the project or any Questions, feel free to contact us via any of the emails : 
 
-- Alphonce Mwangi - alfonce.mwangi@student.moringaschool.com
+- Alfonce Mwangi - alfonce.mwangi@student.moringaschool.com
 - Joyline Cheruiyot - joyline.cheruiyot@student.moringaschool.com
 - Jabin Oganga - jabin.oweggi@student.moringaschool.com
 - Natasha Gwena - natasha.gwena@student.moringaschool.com
