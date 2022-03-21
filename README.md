@@ -13,7 +13,7 @@ The analysis based on the customer information collected will be used to develop
 
 ## Proposed Solution
 
-The project aims to conduct an analysis on the customers of MyMoviesAfrica between the years 2020 and 2021. This analysis will then show the customer trends and thus help the company adjust their strategies in order to attract more customers in the future while at the same time keep the current customers satisfied.
+The project aims to conduct an analysis on the customers of the company between the years 2020 and 2021. This analysis will then show the customer trends and thus help the company adjust their strategies in order to attract more customers in the future while at the same time keep the current customers satisfied.
 
 This involves developing marketing campaigns that target relevant audiences in regards to their site activity such as movie purchases, the device they use to access the site and their demographic details such as age, location and gender.
 
